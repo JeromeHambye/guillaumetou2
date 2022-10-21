@@ -1,12 +1,11 @@
 Package: guillaumetou2
-Title: Ce Package Sert A Envoyer Un Message D'Anniversaire.
+Title: Ce Package Sert A Envoyer Un Message D'Anniversaire
 Version: 26.10.1997
 Authors@R: 
-    person("Jerome", "Foulek", "cestlahagra@unistra.fr", role = c("aut", "cre"),
+    person("Jerome", "Foulek", , "guillaume@hagra.com", role = c("aut", "cre"),
     comment = c(ORCID = "guigui"))
-Description: Ce Package Sert A Envoyer Un Message D'Anniversaire Aux Fouleks.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: Message d'anniversaire pour un foulek qui crache du picon au plafond. J'espere que vas pas vomir ce soir.
+License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
